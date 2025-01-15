@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "bipGnlr2MlA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\brix2\\Desktop\\Frostvein.CommunicationServer\\Frostvein.CommunicationServer\\Frostvein.CommunicationServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\brix2\\.nuget\\packages\\google.protobuf\\3.29.3\\google.protobuf.3.29.3.nupkg.sha512",
+    "C:\\Users\\brix2\\.nuget\\packages\\grpc.core\\2.46.6\\grpc.core.2.46.6.nupkg.sha512",
+    "C:\\Users\\brix2\\.nuget\\packages\\grpc.core.api\\2.46.6\\grpc.core.api.2.46.6.nupkg.sha512",
+    "C:\\Users\\brix2\\.nuget\\packages\\grpc.tools\\2.69.0\\grpc.tools.2.69.0.nupkg.sha512",
+    "C:\\Users\\brix2\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}
